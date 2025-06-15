@@ -1,0 +1,2 @@
+Leave applied successfully.
+Leave cancellation successfully.
